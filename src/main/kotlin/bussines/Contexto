@@ -1,0 +1,4 @@
+
+É a classe de bussines/Lógica do negócio.
+
+Ela serve para validar as entidades, para garantir que os atributos tenham os valores válidos.
